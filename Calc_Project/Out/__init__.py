@@ -1,0 +1,1 @@
+from .out_view import view_data
